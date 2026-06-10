@@ -1,0 +1,10 @@
+Hello John,
+
+Please contact us at support@example.com for assistance.
+
+You may also reach:
+anirudh1807@gmail.com
+hr@company.org
+internship.team@codealpha.tech
+
+Thank you.
